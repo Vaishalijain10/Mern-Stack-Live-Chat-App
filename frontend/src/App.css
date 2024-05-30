@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  background-image: url("./assets/background.jpg") !important; /* Updated path */
+  color: black;
+}
